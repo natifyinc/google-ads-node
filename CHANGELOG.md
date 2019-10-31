@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.13.10"></a>
+## [1.13.10](https://github.com/opteo/google-ads-node/compare/v1.13.9...v1.13.10) (2019-10-31)
+
+
+
 <a name="1.13.9"></a>
 ## [1.13.9](https://github.com/opteo/google-ads-node/compare/v1.13.8...v1.13.9) (2019-10-22)
 
